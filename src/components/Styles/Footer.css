@@ -1,0 +1,19 @@
+
+footer {
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #efeff4;
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align:center;
+  }
+
+  footer h2 {
+      font-size: 1.5em;
+  }
+
+  footer h2 span {
+      font-weight: bold;
+  }
